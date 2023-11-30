@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: models
+Version: 0.0.1
+Summary: For use models
+Home-page: https://github.com/haticeadiguzel/MODELS
+Author: Hatice Adiguzel
+Author-email: adiguzell.hatice@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+# MODELS
+
+for install pip package
+
+pip install .
+
+after this command you can use yor model in your project
+
+if you want to use this python package in docker, make it tar.gz
+
+python3 setup.py sdist
+
+
+You can customize the files according to your needs
+
+
