@@ -12,3 +12,8 @@ python3 setup.py sdist
 
 
 You can customize the files according to your needs
+
+
+or just 
+
+sudo python3 setup.py install
